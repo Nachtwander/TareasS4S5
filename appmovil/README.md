@@ -20,4 +20,5 @@ para su funcionamiento basico se deben dar permisos para utilizar la camara y la
 _NOTA_: el flash funciona hasta el momento de presionar la opcion de tomar fotografia, si este esta encendido se enciende, si esta apagado permanecera apagado al momento de tomar una fotografia.
 
 Evidencia de su funcionamiento:
+
 ![](./assets/Camara.jpeg)
